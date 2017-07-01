@@ -358,7 +358,7 @@ def LeNet(x, keep_prob):
 
 #### Answer: I used the LeNet architecture (shown in image below) as-is since I was getting above 93% training and validation accuracy using this model after preprocessing and augmentation of the input training set. The image below shows the number of layers, layer sizes & connectivity of the model. There is further room for improvement experimenting with different models such as the one suggested in the [published baseline model to solve a traffic classifier problem](http://yann.lecun.com/exdb/publis/pdf/sermanet-ijcnn-11.pdf).
 
-![LeNet.png](attachment:LeNet.png)
+![png](LeNet.png) 
 Source: Yann LeCun
 
 ### Train, Validate and Test the Model
